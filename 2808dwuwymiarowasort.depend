@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1646038902 source:z:\cpp\2808dwuwymiarowasort\main.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-	<ctime>
-	<time.h>
-
